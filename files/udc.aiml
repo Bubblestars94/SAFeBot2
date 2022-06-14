@@ -2,7 +2,7 @@
 <aiml>
   <category>
     <pattern>*</pattern>
-    <template>I have no answer for that. Test</template>
+    <template>Constantin hat Aktien in Discord</template>
         <pattern>xyz</pattern>
     <template>TEST</template>
   </category>
